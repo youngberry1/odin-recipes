@@ -1,5 +1,4 @@
-Project Title: My Beginner Level Project
-Description:
+Project Title: My First Webpage 
 
 This is a beginner-level project built as part of my learning journey through The Odin Project. The goal of this project is to practice and reinforce foundational web development skills. By the end of this project, I will have demonstrated basic knowledge of HTML, CSS, and possibly some JavaScript, as well as how to structure and style a web page.
 
